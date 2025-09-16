@@ -5,7 +5,7 @@ package com.example.message.model;
 // Den indeholder to felter: id og content, samt en konstruktør og getters.
     public class Message {
         private int id;
-        private String content;
+         String content;
 
         public Message(int id, String content) {
             this.id = id;

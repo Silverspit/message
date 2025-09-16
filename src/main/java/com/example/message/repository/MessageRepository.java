@@ -47,4 +47,6 @@ public class MessageRepository {
     public int nextId(){
         return messageId++;
     }
+
+
 }
